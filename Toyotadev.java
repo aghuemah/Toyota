@@ -1,6 +1,4 @@
 sales
-marketing
-production
 evaluation
 analysis
 Dev
