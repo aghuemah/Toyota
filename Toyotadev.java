@@ -5,3 +5,6 @@ Dev
 Repair
 Test
 Advert
+Farmar
+Trader
+Elect
